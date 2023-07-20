@@ -1,1 +1,1 @@
-web: gunicorn mpesa:app
+web: gunicorn mpesa.wsgi
